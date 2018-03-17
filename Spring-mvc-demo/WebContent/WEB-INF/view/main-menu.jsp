@@ -6,7 +6,9 @@
 <a href="showForm">hello world form</a>
 
 <br><hr>
-<a href="student/showForm">hello world form</a>
+<a href="student/showForm">hello world form</a><hr>
+
+<a href="customer/showForm">hello world form</a>
 
 </body>
 </html>
